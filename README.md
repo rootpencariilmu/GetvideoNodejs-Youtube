@@ -11,7 +11,7 @@ In this folder, run the command -
 
 `npm install` to install all the dependent modules. And once the modules are installed successfully, start the server by running the command - `node ./index.js` and open your browser with URL `http://localhost:3000` to see the below landing page
 
-![Landing page looks like this](dump/image.png)
+![Landing page looks like this](https://raw.githubusercontent.com/AxiomSamarth/YouTube-Downloader/master/dump/image.png)
 
 Paste the video link and download your favorite videos.
 
